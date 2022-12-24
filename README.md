@@ -14,13 +14,7 @@ Create a Python script that analyzes the records to calculate each of the follow
 - Print the analysis to the terminal and export a text file with the results.
 
 
-    Financial Analysis
-    ---------------------------------
-    Total Months: 86
-    Total: $22564198
-    Average Change: $-8311.11
-    Greatest Increase in Profits: Aug-16 ($1862002)
-    Greatest Decrease in Profits: Feb-14 ($-1825558)
+[financialAnalysis.txt](https://github.com/19anguiano/Python-pybank-pypoll/files/10299168/financialAnalysis.txt)
 
 
 
@@ -36,14 +30,6 @@ Create a Python script that analyzes the votes and calculates each of the follow
 - Print the analysis to the terminal and export a text file with the results.
 
 
-     Election Results
-    -------------------------------------
-    Total Votes: 369711
-    -------------------------------------
-    Diana DeGette: 73.812% (272892)
-    Raymon Anthony Doane: 3.139% (11606)
-    Charles Casper Stockham: 23.049% (85213)
-    -------------------------------------
-    Winner: Diana DeGette
-    -------------------------------------
+[electionResults.txt](https://github.com/19anguiano/Python-pybank-pypoll/files/10299167/electionResults.txt)
+
 
