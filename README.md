@@ -13,8 +13,11 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The greatest decrease in profits (date and amount) over the entire period
 - Print the analysis to the terminal and export a text file with the results.
 
-###Financial Analysis
+
+  Financial Analysis
+  
   ---------------------------------
+  
   Total Months: 86
   
   Total: $22564198
@@ -40,7 +43,7 @@ Create a Python script that analyzes the votes and calculates each of the follow
 - Print the analysis to the terminal and export a text file with the results.
 
 
-###Election Results
+  Election Results
 
   -------------------------------------
 
