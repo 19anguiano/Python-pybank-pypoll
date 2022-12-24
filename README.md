@@ -13,7 +13,6 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The greatest decrease in profits (date and amount) over the entire period
 - Print the analysis to the terminal and export a text file with the results.
 
-
   Financial Analysis
   ---------------------------------
   Total Months: 86
@@ -21,6 +20,8 @@ Create a Python script that analyzes the records to calculate each of the follow
   Average Change: $-8311.11
   Greatest Increase in Profits: Aug-16 ($1862002)
   Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+
 
 
 ### PyPoll
